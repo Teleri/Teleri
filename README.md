@@ -3,10 +3,7 @@
 ###
 
 <div align="center">
-  <a href="Teleri#1814" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
-  </a>
-  <a href="knottweb@gmail.com" target="_blank">
+  <a href="mailto:knottweb@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/knottm/" target="_blank">
