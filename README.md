@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/663fceb0e8cf2039c5e46761?variant=dark)](https://roadmap.sh)
+
 <!--
 **Teleri/Teleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
