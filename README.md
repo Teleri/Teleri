@@ -1,4 +1,4 @@
-<h1 align="center">Hey! My name is Michael and I'm a Full Stack Developer.</h1>
+<h1 align="center">Hey! My name is Michael and I'm a Software Engineer.</h1>
 
 ###
 
@@ -53,5 +53,9 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11182837879)
 [![roadmap.sh](https://roadmap.sh/card/tall/663fceb0e8cf2039c5e46761?variant=dark&roadmaps=computer-science)](https://roadmap.sh)
+
+###
+
+![Screenshot 2024-06-02 at 11 44 05](https://github.com/Teleri/Teleri/assets/26676054/cde48c59-5486-4295-82af-1f7d79d50001)
 
 ###
